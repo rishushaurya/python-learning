@@ -24,7 +24,7 @@ symbol=input("ENTER THE symbol :")
 
 
 for x in range( row):
-    print("\n")
+    print()
     for y in range( column):
         print(symbol, end="")
    
